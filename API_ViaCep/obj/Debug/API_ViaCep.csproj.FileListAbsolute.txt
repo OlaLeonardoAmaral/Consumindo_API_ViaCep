@@ -1,0 +1,14 @@
+C:\Users\leona\OneDrive\Documentos\fontesCSharp\API_ViaCep\API_ViaCep\bin\Debug\API_ViaCep.exe.config
+C:\Users\leona\OneDrive\Documentos\fontesCSharp\API_ViaCep\API_ViaCep\bin\Debug\API_ViaCep.exe
+C:\Users\leona\OneDrive\Documentos\fontesCSharp\API_ViaCep\API_ViaCep\bin\Debug\API_ViaCep.pdb
+C:\Users\leona\OneDrive\Documentos\fontesCSharp\API_ViaCep\API_ViaCep\obj\Debug\API_ViaCep.csproj.AssemblyReference.cache
+C:\Users\leona\OneDrive\Documentos\fontesCSharp\API_ViaCep\API_ViaCep\obj\Debug\API_ViaCep.csproj.SuggestedBindingRedirects.cache
+C:\Users\leona\OneDrive\Documentos\fontesCSharp\API_ViaCep\API_ViaCep\obj\Debug\API_ViaCep.ViaCep.resources
+C:\Users\leona\OneDrive\Documentos\fontesCSharp\API_ViaCep\API_ViaCep\obj\Debug\API_ViaCep.Properties.Resources.resources
+C:\Users\leona\OneDrive\Documentos\fontesCSharp\API_ViaCep\API_ViaCep\obj\Debug\API_ViaCep.csproj.GenerateResource.cache
+C:\Users\leona\OneDrive\Documentos\fontesCSharp\API_ViaCep\API_ViaCep\obj\Debug\API_ViaCep.csproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive\Documentos\fontesCSharp\API_ViaCep\API_ViaCep\obj\Debug\API_ViaCep.exe
+C:\Users\leona\OneDrive\Documentos\fontesCSharp\API_ViaCep\API_ViaCep\obj\Debug\API_ViaCep.pdb
+C:\Users\leona\OneDrive\Documentos\fontesCSharp\API_ViaCep\API_ViaCep\bin\Debug\Newtonsoft.Json.dll
+C:\Users\leona\OneDrive\Documentos\fontesCSharp\API_ViaCep\API_ViaCep\bin\Debug\Newtonsoft.Json.xml
+C:\Users\leona\OneDrive\Documentos\fontesCSharp\API_ViaCep\API_ViaCep\obj\Debug\API_ViaCep.csproj.CopyComplete
